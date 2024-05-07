@@ -28,7 +28,7 @@ namespace Task
 
             myDel = VolumeBall;
             rez = myDel(radius);
-            Console.WriteLine($"V= {rez:f2}")
+            Console.WriteLine($"V= {rez:f2}");
 
             Console.ReadKey();
 
